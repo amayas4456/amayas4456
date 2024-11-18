@@ -44,7 +44,7 @@
 
 <h1 align="center">Contact me</h1>
 <p align="center">
-<a href="linkedin.com/in/amayas-gherbi-471163236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/amayas-gherbi-471163236" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amayas-gherbi-471163236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amayas-gherbi-471163236/" height="30" width="40" /></a>
 <a href="mailto:amayasgherbi@gmail.com"><img align="center" src="https://freesvg.org/img/Mail-Icon-White-on-Grey.png" alt="email" height="40" width="40" /></a>
 </p>
 
